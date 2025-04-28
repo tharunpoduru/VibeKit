@@ -19,7 +19,7 @@ Create focus keywords for branding
 
 Get similar brand variations based on design theory
 
-Perfect for designers, marketers, content creators, entrepreneurs, and small businesses! 🎨👩‍💻
+Perfect for designers, marketers, content creators, entrepreneurs, and small businesses!
 
 Features:
 1. URL-based Extraction: Paste any website URL and instantly pull branding elements.

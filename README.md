@@ -1,9 +1,9 @@
-🖌️ Brand Kit Suggester — Adobe Express Add-on
+VibeKit - Brand Kit Suggester — Adobe Express Add-on
 
-✨ Overview
-Brand Kit Suggester is an AI-powered Adobe Express Add-on that helps creators instantly generate full brand kits from either a website URL or a simple text prompt.
+Overview
+Vibe Kit Suggester is an AI-powered Adobe Express Add-on that helps creators instantly generate full brand kits from either a website URL or a simple text prompt.
 
-No more blank canvases, no more struggling for inspiration — just click, extract, and create! 🚀
+No more blank canvases, no more struggling for inspiration — just click, extract, and create!
 
 With Brand Kit Suggester, users can:
 
@@ -21,22 +21,22 @@ Get similar brand variations based on design theory
 
 Perfect for designers, marketers, content creators, entrepreneurs, and small businesses! 🎨👩‍💻
 
-🎯 Features
-🖼️ URL-based Extraction: Paste any website URL and instantly pull branding elements.
+Features:
+1. URL-based Extraction: Paste any website URL and instantly pull branding elements.
 
-📝 Prompt-based Generation: Prefer typing a vibe? Enter a prompt and let AI suggest your brand kit.
+2. Prompt-based Generation: Prefer typing a vibe? Enter a prompt and let AI suggest your brand kit.
 
-🎨 Color Palette Builder: Auto-generate color schemes from real-world brands.
+3. Color Palette Builder: Auto-generate color schemes from real-world brands.
 
-💬 Brand Quote Generator: AI crafts motivational quotes tailored to your brand.
+4. Brand Quote Generator: AI crafts motivational quotes tailored to your brand.
 
-🔠 Font Suggestions: Get fonts that match your brand's style and voice.
+5. Font Suggestions: Get fonts that match your brand's style and voice.
 
-🧠 Focus Keywords: Extract essential branding keywords automatically.
+6. Focus Keywords: Extract essential branding keywords automatically.
 
-🎨 Similar Brand Kits: Generate complementary palettes based on color theory (analogous, complementary, monochromatic).
+7. Similar Brand Kits: Generate complementary palettes based on color theory (analogous, complementary, monochromatic).
 
-⚙️ Tech Stack
+Tech Stack:
 Adobe Express Add-on SDK
 
 React + TypeScript
@@ -49,7 +49,7 @@ Custom Color Extraction Algorithms
 
 CORS Proxy (for safe DOM parsing)
 
-🚀 How It Works
+How It Works:
 Paste a URL or Enter a Prompt.
 
 Behind the Scenes:
